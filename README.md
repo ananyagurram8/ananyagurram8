@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="banner.gif" alt="Ananya coding" width="100%" />
+
 # 👩🏻‍💻 Ananya Sragvi
 
 *turning ideas into working systems, one experiment at a time.*
@@ -5,6 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-171717?style=for-the-badge&logo=linkedin&logoColor=E8A0BF)](https://www.linkedin.com/in/gurram-ananya-sragvi/)
 [![Gmail](https://img.shields.io/badge/GMAIL-171717?style=for-the-badge&logo=gmail&logoColor=E8A0BF)](mailto:ananyasragvi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=E8A0BF)](https://github.com/YOUR-USERNAME)
+
+</div>
 
 ---
 
@@ -101,19 +107,4 @@ A student-focused **mental health support platform** built around accessible wel
 → Backend Development & APIs
 → System Design
 → Why the model worked yesterday and not today
-```## Hi there 👋
-
-<!--
-**ananyagurram8/ananyagurram8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
